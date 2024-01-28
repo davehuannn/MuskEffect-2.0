@@ -1,3 +1,6 @@
+<h2>
+MuskEffect 2.0 
+</h2> 
 MuskEffect 2.0 is an updated Python script that monitors Elon Musk's tweets and analyzes their impact on cryptocurrency prices. The application fetches Elon Musk's recent tweets from the Twitter API, extracts relevant words, and correlates them with cryptocurrency names. Additionally, it utilizes the CoinMarketCap API to retrieve real-time information about the mentioned cryptocurrencies.
 
 We have improve this script with additional information pulled from CoinMarketCap APIs and a newly generated text file together with a log file to a proposed email account.
